@@ -1,6 +1,8 @@
 # ISeeYou-Augmented-Reality-Face-Recognition
 Face Recognition Augmented Reality in Unity3d using Metaio SDK
 
+https://www.youtube.com/watch?v=U-PYJCYP-lY
+
 ### 1) Get the Metaio SDK
 Go install the METAIO SDK.
 http://www.metaio.com/products/sdk/
