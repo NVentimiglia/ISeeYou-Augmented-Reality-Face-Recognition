@@ -17,7 +17,7 @@ http://www.metaio.com/products/sdk/
 
 ### 4) Add a Tracker Camera Script
 
-This script sits metaioTracker prefab. It is the only custom script in the project.
+This script sits metaioTracker game object. It is the only custom script in the project.
 
 ````
 using System;
