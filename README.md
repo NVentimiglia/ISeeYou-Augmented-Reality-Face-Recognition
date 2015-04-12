@@ -105,4 +105,4 @@ public class TrackerCamera : MonoBehaviour
 
 ### 5) Add components to the tracker game object
 - Include an audio source with your favorite snapshot sound
-- Include a Quad facing the camera to outline the faces.
+- Include a Quad facing the (game) camera to outline the faces.
